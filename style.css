@@ -1,0 +1,14 @@
+.bg {
+    z-index: -9;
+    background-color: #f6eada;
+    height: 400px;
+    min-height: 400px;
+}
+
+.bg-kopi {
+    position: absolute;
+    width: 650px;
+    height: 400px;
+    top: -175px;
+    left: -60px;
+}
